@@ -20,7 +20,9 @@ Bubblegum generates strong, random passwords for Linux Mint using PyQt5.
 
 Download bubblegum.deb from Releases.
 
-Install with:
+Double-click the .deb file and open with Software Manager. Click Install.
+
+Or install via terminal:
 
 sudo dpkg -i bubblegum.deb
 sudo apt install -f
