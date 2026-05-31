@@ -48,5 +48,5 @@ Installed automatically:
 
 MIT
 
-## Proof It's Legit
-<img width="1920" height="1080" alt="not_a_virus" src="https://github.com/user-attachments/assets/2d4ae9c3-95c0-4a76-aa00-d61743b5e9cb" />
+## Proof It's Not a Virus
+<img width="1773" height="1036" alt="not_a_virus" src="https://github.com/user-attachments/assets/b6104617-3908-49a8-a7a4-ebcb49d777d8" />
