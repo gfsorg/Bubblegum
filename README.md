@@ -47,3 +47,6 @@ Installed automatically:
 ## License
 
 MIT
+
+## Proof It's Legit
+<img width="1920" height="1080" alt="not_a_virus" src="https://github.com/user-attachments/assets/2d4ae9c3-95c0-4a76-aa00-d61743b5e9cb" />
